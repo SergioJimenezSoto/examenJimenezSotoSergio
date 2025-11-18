@@ -1,1 +1,3 @@
-1 -
+1 - mkdir examenApellido / cd examenApellido / mkdir prog si bbdd
+2 - touch prog/index.php
+3 - cp ../prog/index.php ../bbdd/consultas.sql
