@@ -1,2 +1,2 @@
 Sergio Jimenez Soto
-25
+30
